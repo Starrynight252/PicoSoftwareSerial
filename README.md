@@ -1,5 +1,5 @@
-## _ 原作者 [Flamabalistic](https://github.com/Flamabalistic)**_
-## _ PicoSoftwareSerial 库文件作者 （https://github.com/beegee-tokyo/PicoSoftwareSerial）
+## 原作者 [Flamabalistic](https://github.com/Flamabalistic)
+## PicoSoftwareSerial 库文件作者 （https://github.com/beegee-tokyo/PicoSoftwareSerial）
 
 该ICMakerSoftwareSerial库基于 "PicoSoftwareSerial",修改而得到,修改内容:
 
